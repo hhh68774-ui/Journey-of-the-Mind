@@ -1,0 +1,6 @@
+{
+  "name": "رِحْلَةُ عَقْل",
+  "description": "تطبيق تعليمي تفاعلي مدرسي يربط بين دروس مادة العلوم وكتب مركز مصادر التعلم لطالبات الصفوف 5-9",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
